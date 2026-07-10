@@ -1,6 +1,86 @@
 ---
-title: "quarto-website"
+title: "GECS Song"
 ---
+
+Songwritter: ChatGPTória 
+
+# Good Enough Computing in Science (GECS) 🎶🎵
+
+**Verse 1**
+We don't need a thousand cores,
+Just to open twenty doors.
+Not every script must break the scale,
+Sometimes simple never fails.
+
+Write it clean, make it clear,
+Future-you will thank you next year.
+One good plot can change your mind,
+Science leaves the bugs behind.
+
+**Pre-Chorus**
+Optimize when you must,
+But don't optimize on trust.
+First make sure the code is right,
+Then make it run through every night.
+
+**Chorus**
+♪ Good Enough Computing in Science! ♪
+Finding the balance between speed and compliance.
+Elegant, simple, reproducible too,
+Making discoveries starts with what you do.
+
+♪ Good Enough Computing in Science! ♪
+No unnecessary appliance.
+Less is more when the answer is true—
+GECS is the way for me and you!
+
+---
+
+**Verse 2**
+Version control has got your back,
+No more "final_final" stack.
+Document the things you've done,
+Helping everyone.
+
+Test your code before you boast,
+Coffee powers every host.
+Random seeds are set with care,
+Now your results can all compare.
+
+**Bridge**
+It's not about perfection,
+Or squeezing every FLOP.
+It's building tools that others trust,
+And knowing when to stop.
+
+Repeatability, clarity,
+They're worth much more than speed.
+Because tomorrow's breakthrough starts
+With today's well-written README.
+
+---
+
+**Final Chorus**
+♪ Good Enough Computing in Science! ♪
+From notebooks all the way to giant clusters' alliance.
+Think before you parallelize,
+Keep your workflow organized.
+
+♪ Good Enough Computing in Science! ♪
+Reliable is our compliance.
+Code that's shared and understood,
+Not just clever—simply good!
+
+**Outro**
+So raise your laptop, raise your tea,
+Commit your code responsibly.
+Debug together, learn as one—
+That's how great science gets done!
+
+**(GECS! GECS! Good Enough Computing in Science!)**
+
+
+
 
 This is a Quarto website.
 

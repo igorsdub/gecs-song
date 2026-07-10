@@ -1,5 +1,3 @@
 ---
-title: "About"
+title: "GECS Song"
 ---
-
-About this site
